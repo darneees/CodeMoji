@@ -8,11 +8,13 @@
 - ``SASS``
 - ``JAVASCRIPT``
 
-## :paperclip: Font/Icones:
+## :paperclip: Font/Icones/ilustrações:
 
 https://fonts.google.com/specimen/Sora#styles
 
 https://phosphoricons.com/
+
+https://icons8.com/illustrations/style--3d-casual-life
 
 # :pushpin: Imagens:
 
